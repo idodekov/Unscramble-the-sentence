@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Unscramble the Sentence</string>
+    <string name="playButtonLabel">Play</string>
+    <string name="incorrectSelection">Incorrect! You have %1$d retries remaining.</string>
+    <string name="noMoreLevels">Congratulations, you\'ve completed all the sentences! More will come soon.</string>
+    <string name="homeButton">Back to menu</string>
+    <string name="nextButton">Next</string>
+    <string name="app_name_underlined"><u>Unscramble The Sentence</u></string>
+    <string name="playedLabel">Played:</string>
+    <string name="passedLabel">Passed:</string>
+    <string name="failedLabel">Failed:</string>
+    <string name="youFail">Try again</string>
+    <string name="youPass">Well done</string>
+    <string name="banner_ad_unit_id_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id_mainBottom">ca-app-pub-7874506947185490/2820828762</string>
+    <string name="banner_ad_unit_id_playBottom">ca-app-pub-7874506947185490/5774295162</string>
+    <string name="banner_ad_unit_id_overviewBottom">ca-app-pub-7874506947185490/4297561964</string>
+</resources>
